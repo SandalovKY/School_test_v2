@@ -27,11 +27,11 @@ namespace my
         {
             if (xSize < 0.0)
             {
-                throw 'x';
+                throw "wrong x size";
             }
             if (ySize < 0.0)
             {
-                throw 'y';
+                throw "wrong y size";
             }
             m_xSize = xSize;
             m_ySize = ySize;
