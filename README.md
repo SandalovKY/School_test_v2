@@ -1,2 +1,2 @@
 # School_test_v2
-## First version
+## Version 1.2
