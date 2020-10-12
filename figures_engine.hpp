@@ -1,3 +1,5 @@
+#ifndef FIGURES_ENGINE
+#define FIGURES_ENGINE
 #include <memory>
 #include <vector>
 #include "ellipse.hpp"
@@ -23,3 +25,4 @@ namespace my_engine
     };
     
 }
+#endif
